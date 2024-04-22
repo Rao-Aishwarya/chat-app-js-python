@@ -33,3 +33,5 @@ And lastly run the server
 ```
 uvicorn main:app --reload --port 3001
 ```
+
+Connect frontend to backend with Chat Engine, use [Chatengine.io](ChatEngine.io) - create an account, and setup a “New Project”.
