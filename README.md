@@ -35,3 +35,4 @@ uvicorn main:app --reload --port 3001
 ```
 
 Connect frontend to backend with Chat Engine, use [Chatengine.io](ChatEngine.io) - create an account, and setup a “New Project”.
+Copy the Private key and Project ID, paste it in the ```main.py``` and ```ChatsPage.jsx``` respectively.
