@@ -7,6 +7,7 @@ https://github.com/alamorre/js-chat-website
 Run the following commands to have a working python code
 
 Create a backend folder
-> mkdir backend
-> cd backend
+<span style="background-color: lightgray;">mkdir backend</span>
+
+cd backend
 
